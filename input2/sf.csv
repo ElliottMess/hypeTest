@@ -1,0 +1,101 @@
+"","district","idp_settlement","n","type","Population","source","weeights","verif"
+"1","afgooye","no",126,"HC",129504,"OCHA pre-war settlement list",1.30414142464319,164.321819505042
+"2","afgooye","yes",145,"IDP",18978,"DSA IDP Site Master List 2019",0.166071264504502,24.0803333531527
+"3","afmadow","no",56,"HC",62809,"OCHA pre-war settlement list",1.42313436006557,79.6955241636721
+"4","afmadow","yes",45,"IDP",10307,"DSA IDP Site Master List 2019",0.290624226731473,13.0780902029163
+"5","baardheere","no",66,"HC",103945,"OCHA pre-war settlement list",1.99835076212126,131.891150300003
+"6","baardheere","yes",52,"IDP",4070,"DSA IDP Site Master List 2019",0.099312317853194,5.16424052836609
+"7","badhaadhe","no",80,"HC",34001,"OCHA pre-war settlement list",0.539279306526337,43.142344522107
+"8","baidoa","no",76,"HC",395348,"OCHA pre-war settlement list",6.60051779519099,501.639352434515
+"9","baidoa","yes",169,"IDP",323191,"DSA IDP Site Master List 2019",2.42652408386253,410.082570172768
+"10","baki","no",111,"HC",28760,"OCHA pre-war settlement list",0.328759230572656,36.4922745935648
+"11","baki","yes",30,"IDP",8388,"DSA IDP Site Master List 2020",0.35477190460225,10.6431571380675
+"12","balcad","no",37,"HC",153099,"OCHA pre-war settlement list",5.25028262601979,194.260457162732
+"13","banadir_daynile","yes",158,"IDP",416464,"DSA IDP Site Master List 2019",3.34450948186088,528.432498134018
+"14","banadir_dharkenley","yes",139,"IDP",26193,"DSA IDP Site Master List 2019",0.239101607055473,33.2351233807108
+"15","banadir_hc","no",172,"HC",521430,"OCHA pre-war settlement list",3.84662296255347,661.619149559196
+"16","banadir_hodan","yes",94,"IDP",45010,"DSA IDP Site Master List 2019",0.607565649489669,57.1111710520289
+"17","banadir_kahda","yes",212,"IDP",298622,"DSA IDP Site Master List 2019",1.78730220557895,378.908067582737
+"18","banadir_other","yes",133,"IDP",59241,"DSA IDP Site Master List 2019",0.565174803977269,75.1682489289768
+"19","bandarbayla","no",91,"HC",1771,"OCHA pre-war settlement list",0.0246938736283617,2.24714250018092
+"20","belet_weyne","no",154,"HC",165462,"OCHA pre-war settlement list",1.36329424408008,209.947313588332
+"21","belet_weyne","yes",141,"IDP",41828,"DSA IDP Site Master List 2019",0.376409034834539,53.0736739116699
+"22","belet_xaawo","no",122,"HC",58431,"OCHA pre-war settlement list",0.607708821671887,74.1404762439702
+"23","belet_xaawo","yes",69,"IDP",7620,"DSA IDP Site Master List 2019",0.140125744493642,9.66867637006132
+"24","berbera","no",122,"HC",72408,"OCHA pre-war settlement list",0.753075941873629,91.8752649085827
+"25","berbera","yes",97,"IDP",7920,"DSA IDP Site Master List 2019",0.103601370309935,10.0493329200637
+"26","borama","no",155,"HC",255910,"OCHA pre-war settlement list",2.09492081099178,324.712725703726
+"27","borama","yes",94,"IDP",14398,"DSA IDP Site Master List 2019",0.19435081584875,18.2689766897825
+"28","bossaso","no",35,"HC",214433,"OCHA pre-war settlement list",7.77384057015883,272.084419955559
+"29","bossaso","yes",113,"IDP",59266,"DSA IDP Site Master List 2019",0.665486462903926,75.1999703081436
+"30","burco","no",123,"HC",344504,"OCHA pre-war settlement list",3.55386731983826,437.125680340106
+"31","burco","yes",123,"IDP",72548,"DSA IDP Site Master List 2019",0.748397598633473,92.0529046319172
+"32","burtinle","no",106,"HC",34613,"OCHA pre-war settlement list",0.414329093246339,43.9188838841119
+"33","burtinle","yes",47,"IDP",6769,"DSA IDP Site Master List 2019",0.182742140919599,8.58888062322114
+"34","buuhoodle","no",73,"HC",19539,"OCHA pre-war settlement list",0.339618645228181,24.7921611016572
+"35","buuhoodle","yes",94,"IDP",18680,"DSA IDP Site Master List 2019",0.25215121822855,23.7022145134837
+"36","buur_hakaba","no",187,"HC",129461,"OCHA pre-war settlement list",0.878434538678477,164.267258732875
+"37","cabudwaaq","no",31,"HC",29165,"OCHA pre-war settlement list",1.19374712696994,37.006160936068
+"38","cabudwaaq","yes",136,"IDP",15404,"DSA IDP Site Master List 2019",0.143716507260715,19.5454449874573
+"39","cadaado","no",79,"HC",43123,"OCHA pre-war settlement list",0.692618244968528,54.7168413525137
+"40","cadaado","yes",161,"IDP",3650,"DSA IDP Site Master List 2019",0.0287659711699547,4.63132135836271
+"41","caynabo","no",147,"HC",29720,"OCHA pre-war settlement list",0.256533167031106,37.7103755535725
+"42","caynabo","yes",118,"IDP",29260,"DSA IDP Site Master List 2019",0.314633069295781,37.1267021769021
+"43","ceel_afweyn","no",51,"HC",50068,"OCHA pre-war settlement list",1.24566746049156,63.5290404850696
+"44","ceel_afweyn","yes",71,"IDP",15440,"DSA IDP Site Master List 2019",0.275931320752924,19.5911237734576
+"45","ceel_barde","no",108,"HC",24717,"OCHA pre-war settlement list",0.290391603284249,31.3622931546989
+"46","ceel_barde","yes",90,"IDP",3606,"DSA IDP Site Master List 2019",0.0508387970114336,4.57549173102902
+"47","ceel_waaq","no",78,"HC",19975,"OCHA pre-war settlement list",0.324940794286249,25.3453819543274
+"48","ceel_waaq","yes",59,"IDP",300,"DSA IDP Site Master List 2019",0.00645180593224431,0.380656550002414
+"49","ceerigaabo","no",145,"HC",98817,"OCHA pre-war settlement list",0.864720420726174,125.384461005295
+"50","ceerigaabo","yes",105,"IDP",11202,"DSA IDP Site Master List 2019",0.135368719781811,14.2137155770902
+"51","dhuusamarreeb","no",99,"HC",86704,"OCHA pre-war settlement list",1.11126079162994,110.014818371364
+"52","dhuusamarreeb","yes",87,"IDP",3506,"DSA IDP Site Master List 2019",0.0511334047627764,4.44860621436155
+"53","doolow","no",60,"HC",29323,"OCHA pre-war settlement list",0.620110667540044,37.2066400524026
+"54","doolow","yes",67,"IDP",30000,"DSA IDP Site Master List 2019",0.568144104481215,38.0656550002414
+"55","eyl","no",86,"HC",7898,"OCHA pre-war settlement list",0.116528117516243,10.0214181063969
+"56","gaalkacyo","no",188,"HC",149399,"OCHA pre-war settlement list",1.00832815450019,189.565693046036
+"57","gaalkacyo","yes",224,"IDP",166428,"DSA IDP Site Master List 2019",0.942736730711336,211.173027679339
+"58","galdogob","no",50,"HC",40716,"OCHA pre-war settlement list",1.03325413932655,51.6627069663277
+"59","galdogob","yes",84,"IDP",10890,"DSA IDP Site Master List 2019",0.164498009108186,13.8178327650876
+"60","garbahaarey","no",30,"HC",60048,"OCHA pre-war settlement list",2.53974050161611,76.1922150484832
+"61","garbahaarey","yes",30,"IDP",1680,"DSA IDP Site Master List 2019",0.071055889333784,2.13167668001352
+"62","garowe","no",85,"HC",62278,"OCHA pre-war settlement list",0.929667789060798,79.0217620701679
+"63","garowe","yes",84,"IDP",45626,"DSA IDP Site Master List 2019",0.689199831365482,57.8927858347005
+"64","gebiley","no",209,"HC",86783,"OCHA pre-war settlement list",0.526866305882927,110.115057929532
+"65","gebiley","yes",54,"IDP",8120,"DSA IDP Site Master List 2019",0.190798221359235,10.3031039533987
+"66","hargeysa","no",119,"HC",695249,"OCHA pre-war settlement list",7.41319567878511,882.170285775429
+"67","hargeysa","yes",120,"IDP",107267,"DSA IDP Site Master List 2019",1.13421905969747,136.106287163697
+"68","hobyo","no",106,"HC",45867,"OCHA pre-war settlement list",0.549043206885558,58.1985799298691
+"69","hobyo","yes",65,"IDP",1602,"DSA IDP Site Master List 2019",0.0312723996463522,2.03270597701289
+"70","iskushuban","no",104,"HC",14661,"OCHA pre-war settlement list",0.178871976909788,18.602685598618
+"71","jariiban","no",85,"HC",8971,"OCHA pre-war settlement list",0.133916467061634,11.3828997002389
+"72","jowhar","no",137,"HC",323991,"OCHA pre-war settlement list",3.00071280515407,411.097654306107
+"73","jowhar","yes",71,"IDP",9481,"DSA IDP Site Master List 2019",0.169436842749901,12.030015835243
+"74","kismayo","no",135,"HC",146807,"OCHA pre-war settlement list",1.37982829965937,186.276820454015
+"75","kismayo","yes",168,"IDP",63468,"DSA IDP Site Master List 2019",0.479355355467326,80.5316997185108
+"76","laas_caanood","no",176,"HC",74523,"OCHA pre-war settlement list",0.537266440830112,94.5588935860997
+"77","laas_caanood","yes",121,"IDP",40825,"DSA IDP Site Master List 2019",0.428107538673514,51.8010121794952
+"78","laasqoray","no",147,"HC",73278,"OCHA pre-war settlement list",0.632511353085644,92.9791689035897
+"79","laasqoray","yes",79,"IDP",11874,"DSA IDP Site Master List 2019",0.190713749988551,15.0663862490956
+"80","lughaye","no",155,"HC",31774,"OCHA pre-war settlement list",0.260107123005951,40.3166040659224
+"81","lughaye","yes",94,"IDP",14156,"DSA IDP Site Master List 2019",0.191084188717524,17.9619137394473
+"82","luuq","no",90,"HC",61464,"OCHA pre-war settlement list",0.866543488494385,77.9889139644947
+"83","luuq","yes",47,"IDP",28470,"DSA IDP Site Master List 2019",0.768602267983598,36.1243065952291
+"84","marka","no",70,"HC",228573,"OCHA pre-war settlement list",4.14322902874771,290.026032012339
+"85","owdweyne","no",111,"HC",43965,"OCHA pre-war settlement list",0.502569526151836,55.7852174028538
+"86","owdweyne","yes",67,"IDP",1600,"DSA IDP Site Master List 2019",0.0303010189056648,2.03016826667954
+"87","qardho","no",50,"HC",83056,"OCHA pre-war settlement list",2.1077206944667,105.386034723335
+"88","qoryooley","no",123,"HC",148864,"OCHA pre-war settlement list",1.53566549212898,188.886855531865
+"89","sheikh","no",98,"HC",34805,"OCHA pre-war settlement list",0.450637796695035,44.1625040761134
+"90","taleex","no",58,"HC",8420,"OCHA pre-war settlement list",0.184202767300019,10.6837605034011
+"91","taleex","yes",50,"IDP",3860,"DSA IDP Site Master List 2019",0.097955618867288,4.8977809433644
+"92","waajid","no",129,"HC",80337,"OCHA pre-war settlement list",0.790201686241446,101.936017525147
+"93","waajid","yes",74,"IDP",10074,"DSA IDP Site Master List 2019",0.172735769582177,12.7824469490811
+"94","wanla_weyn","no",179,"HC",166558,"OCHA pre-war settlement list",1.1806590997263,211.337978851007
+"95","wanla_weyn","yes",78,"IDP",7720,"DSA IDP Site Master List 2019",0.125584126752933,9.79556188672879
+"96","xudun","no",68,"HC",10392,"OCHA pre-war settlement list",0.193910924883583,13.1859428920836
+"97","xudun","yes",104,"IDP",14010,"DSA IDP Site Master List 2019",0.170929431587623,17.7766608851128
+"98","xudur","no",101,"HC",102704,"OCHA pre-war settlement list",1.29026238651643,130.31650103816
+"99","xudur","yes",51,"IDP",971,"DSA IDP Site Master List 2019",0.0241580071929637,1.23205836684115
+"100","zeylac","no",129,"HC",27677,"OCHA pre-war settlement list",0.272233367814388,35.1181044480561

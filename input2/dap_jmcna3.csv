@@ -1,0 +1,13 @@
+Indicator.Group...Sector,research.question,sub.research.question,hypothesis,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type
+select_one no SL,,,,,district_idp,categorical,breadwinner,categorical,direct_reporting
+select_multiple no SL,,,,,district_idp,categorical,enough_water,categorical,direct_reporting
+select_one SL,,,,,district_idp,categorical,child_thin,categorical,direct_reporting
+select_mutiple SL,,,,,district_idp,categorical,latrine_features,categorical,direct_reporting
+interger no SL,,,,,district_idp,categorical,females_18_40,numerical,direct_reporting
+interger SL,,,,,district_idp,categorical,enrolled_boys_6_12,numerical,direct_reporting
+select_one no SL,,,,district_idp,,,breadwinner,categorical,direct_reporting
+select_multiple no SL,,,,district_idp,,,enough_water,categorical,direct_reporting
+select_one SL,,,,district_idp,,,child_thin,categorical,direct_reporting
+select_mutiple SL,,,,district_idp,,,latrine_features,categorical,direct_reporting
+interger no SL,,,,district_idp,,,females_18_40,numerical,direct_reporting
+interger SL,,,,district_idp,,,enrolled_boys_6_12,numerical,direct_reporting

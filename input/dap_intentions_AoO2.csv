@@ -1,0 +1,11 @@
+Indicator.Group...Sector,research.question,sub.research.question,hypothesis,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type
+select one  NO SL,,,,governorate_origin,NA,NA,safe_in_aoo,categorical,direct_reporting
+select multiple + SL,,,,governorate_origin,NA,NA,why_not_safe_in_aoo,categorical,direct_reporting
+select one NO SL,,,,governorate_origin,NA,NA,assistance_provided_in_aoo,categorical,direct_reporting
+select multiple NO SL,,,,governorate_origin,NA,NA,needs_return,categorical,direct_reporting
+select one + SL,,,,governorate_origin,NA,NA,when_move_1,categorical,direct_reporting
+select one  NO SL,,,,,governorate_origin,categorical,safe_in_aoo,categorical,direct_reporting
+select multiple + SL,,,,,governorate_origin,categorical,why_not_safe_in_aoo,categorical,direct_reporting
+select one NO SL,,,,,governorate_origin,categorical,assistance_provided_in_aoo,categorical,direct_reporting
+select multiple NO SL,,,,,governorate_origin,categorical,needs_return,categorical,direct_reporting
+select one + SL,,,,,governorate_origin,categorical,when_move_1,categorical,direct_reporting

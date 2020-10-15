@@ -1,0 +1,613 @@
+list_name,name,label::English,label::Arabic,filter
+governorate,al.anbar,Al-Anbar,,
+governorate,baghdad,Baghdad,,
+governorate,duhok,Duhok,,
+governorate,diyala,Diyala,,
+governorate,erbil,Erbil,,
+governorate,kerbala,Kerbala,,
+governorate,ninewa,Ninewa,,
+governorate,al.sulaymaniyah,Al-Sulaymaniyah,,
+governorate,kirkuk,Kirkuk,,
+governorate,salah.al.din,Salah Al-Din,,
+,,,,
+camp_name,aaf,Amriyat Al-Fallujah Camp,,al.anbar
+camp_name,htc,Habbaniya Tourist City camps,,al.anbar
+camp_name,zayona,Zayona,,baghdad
+camp_name,al.ahel,Al Ahel,,baghdad
+camp_name,bajed.kandala,Bajed Kandala,,duhok
+camp_name,kabarto.1,Kabarto 1,,duhok
+camp_name,kabarto.2,Kabarto 2,,duhok
+camp_name,darkar,Darkar,,duhok
+camp_name,dawoudia,Dawoudia,,duhok
+camp_name,bersive.2,Bersive 2,,duhok
+camp_name,bersive.1,Bersive 1,,duhok
+camp_name,rwanga.community,Rwanga Community,,duhok
+camp_name,khanke,Khanke,,duhok
+camp_name,shariya,Shariya,,duhok
+camp_name,chamishku,Chamishku,,duhok
+camp_name,alwand.2,Alwand 2,,diyala
+camp_name,qoratu,Qoratu,,diyala
+camp_name,alwand.1,Alwand 1,,diyala
+camp_name,debaga.1,Debaga 1,,erbil
+camp_name,harshm,Harshm,,erbil
+camp_name,baharka,Baharka,,erbil
+camp_name,al.kawthar,Al-Kawthar Camp (Kerbala MODM),,kerbala
+camp_name,laylan.idp,Laylan IDP (1),,kirkuk
+camp_name,yahyawa,Yahyawa,,kirkuk
+camp_name,as.salamyiah,As Salamyiah,,ninewa
+camp_name,essian,Essian,,ninewa
+camp_name,haa.2,Hamam Al Alil 1-2,,ninewa
+camp_name,hasansham.u2,Hasansham_U2,,ninewa
+camp_name,hasansham.u3,Hasansham U3,,ninewa
+camp_name,khazer.m1,Khazer M1,,ninewa
+camp_name,mamilian,Mamilian,,ninewa
+camp_name,mamrashan,Mamrashan,,ninewa
+camp_name,qayyarah.jadah.one,Qayyarah-Jad'ah 1,,ninewa
+camp_name,qayyarah.jadah.five,Qayyarah-Jad'ah 5,,ninewa
+camp_name,sheikhan,Sheikhan,,ninewa
+camp_name,karamah,Karamah,,salah.al.din
+camp_name,ashti.idp,Ashti IDP,,tooz.khurmato
+subdistrict_origin,atreesh,Atreesh,,al.shikhan
+subdistrict_origin,baghdad.al.jedeeda,Baghdad Al-Jedeeda,,al.risafa
+subdistrict_origin,balak,Balak,,rawanduz
+subdistrict_origin,bardarash,Bardarash,,aqra
+subdistrict_origin,bartilla,Bartilla,,al.hamdaniya
+subdistrict_origin,barwana,Barwana,,haditha
+subdistrict_origin,barwari.bala,Barwari Bala,,al.amadiya
+subdistrict_origin,barzan,Barzan,,al.zibar
+subdistrict_origin,bashiqa,Bashiqa,,al.mosul
+subdistrict_origin,bateel,Bateel,,sumail
+subdistrict_origin,batifa,Batifa,,zakho
+subdistrict_origin,bazian,Bazian,,al.sulaymaniyah
+subdistrict_origin,bebaz,Bebaz,,kalar
+subdistrict_origin,begeel,Begeel,,aqra
+subdistrict_origin,beni.hasheem,Beni Hasheem,,al.kahla
+subdistrict_origin,beni.saad,Beni Saad,,baquba
+subdistrict_origin,beyara,Beyara,,halabcha
+subdistrict_origin,bitwana,Bitwana,,rania
+subdistrict_origin,bradost,Bradost,,rawanduz
+subdistrict_origin,buhriz,Buhriz,,baquba
+subdistrict_origin,cenkaw,Cenkaw,,chamchamal
+subdistrict_origin,dercar,Dercar,,zakho
+subdistrict_origin,diana,Diana,,rawanduz
+subdistrict_origin,dibaga,Dibaga,,makhmour
+subdistrict_origin,dijla,Dijla,,samarra
+subdistrict_origin,dinarta,Dinarta,,aqra
+subdistrict_origin,fayde,Fayde,,sumail
+subdistrict_origin,garmat.beni.said,Garmat Beni Said,,suq.al.shoyokh
+subdistrict_origin,ghammas,Ghammas,,al.shamiya
+subdistrict_origin,gnareen,Gnareen,,dokan
+subdistrict_origin,gwyer,Gwyer,,makhmour
+subdistrict_origin,haji.omaran,Haji Omaran,,rawanduz
+subdistrict_origin,hammam.al.alil,Hammam Al-Alil,,al.mosul
+subdistrict_origin,hamreen,Hamreen,,al.daur
+subdistrict_origin,harir,Harir,,shaqlawa
+subdistrict_origin,hero,Hero,,pshdar
+subdistrict_origin,hibhib,Hibhib,,al.khalis
+subdistrict_origin,jabarra,Jabarra,,kifri
+subdistrict_origin,jalawla,Jalawla,,khanaqin
+subdistrict_origin,jassan,Jassan,,badra
+subdistrict_origin,jurf.al.sakhar,Jurf Al-Sakhar,,al.mussyab
+subdistrict_origin,kadr.karam,Kadr Karam,,chamchamal
+subdistrict_origin,kanan,Kanan,,baquba
+subdistrict_origin,karmak,Karmak,,panjwin
+subdistrict_origin,khailfan,Khailfan,,rawanduz
+subdistrict_origin,khoshnaw,Khoshnaw,,shaqlawa
+subdistrict_origin,khourmal,Khourmal,,halabcha
+subdistrict_origin,kubaisa,Kubaisa,,heet
+subdistrict_origin,kumait,Kumait,,al.amara
+subdistrict_origin,kurdsein,Kurdsein,,aqra
+subdistrict_origin,lilan,Lilan,,kirkuk
+subdistrict_origin,makkhoul,Makkhoul,,beygee
+subdistrict_origin,mandali,Mandali,,baladruz
+subdistrict_origin,markaz.abu.al.khaseeb,Markaz Abu Al-Khaseeb,,abu.al.khaseeb
+subdistrict_origin,markaz.afaq,Markaz Afaq,,afaq
+subdistrict_origin,markaz.ain.al.tamur,Markaz Ain Al-Tamur,,ain.al.tamur
+subdistrict_origin,markaz.al.adhamiya,Markaz Al-Adhamiya,,al.adhamiya
+subdistrict_origin,markaz.al.amadiya,Markaz Al-Amadiya,,al.amadiya
+subdistrict_origin,markaz.al.baaj,Markaz Al-Baaj,,al.baaj
+subdistrict_origin,markaz.al.basrah,Markaz Al-Basrah,,al.basrah
+subdistrict_origin,markaz.al.chibayish,Markaz Al-Chibayish,,al.chibayish
+subdistrict_origin,markaz.al.diwaniya,Markaz Al-Diwaniya,,al.diwaniya
+subdistrict_origin,markaz.al.falluja,Markaz Al-Falluja,,al.falluja
+subdistrict_origin,markaz.al.faw,Markaz Al-Faw,,al.faw
+subdistrict_origin,markaz.al.hamdaniya,Markaz Al-Hamdaniya,,al.hamdaniya
+subdistrict_origin,markaz.al.hamza,Markaz Al-Hamza,,al.hamza
+subdistrict_origin,markaz.al.hawiga,Markaz Al-Hawiga,,al.hawiga
+subdistrict_origin,markaz.al.hilla,Markaz Al-Hilla,,al.hilla
+subdistrict_origin,markaz.al.hindiya,Markaz Al-Hindiya,,al.hindiya
+subdistrict_origin,markaz.al.kadhimiya,Markaz Al-Kadhimiya,,al.kadhmiyah
+subdistrict_origin,markaz.al.kahla,Markaz Al-Kahla,,al.kahla
+subdistrict_origin,markaz.al.karkh,Markaz Al-Karkh,,al.karkh
+subdistrict_origin,markaz.al.khalis,Markaz Al-Khalis,,al.khalis
+subdistrict_origin,markaz.al.khidhir,Markaz Al-Khidhir,,al.khidhir
+subdistrict_origin,markaz.al.kufa,Markaz Al-Kufa,,al.kufa
+subdistrict_origin,markaz.al.kut,Markaz Al-Kut,,al.kut
+subdistrict_origin,markaz.al.mada'in,Markaz Al-Mada'in,,al.mada'in
+subdistrict_origin,markaz.al.mahawil,Markaz Al-Mahawil,,al.mahaweel
+subdistrict_origin,markaz.al.mahmoudiya,Markaz Al-Mahmoudiya,,al.mahmoudiya
+subdistrict_origin,markaz.al.maimouna,Markaz Al-Maimouna,,al.maimouna
+subdistrict_origin,markaz.al.midaina,Markaz Al-Midaina,,al.midaina
+subdistrict_origin,markaz.al.muqdadiya,Markaz Al-Muqdadiya,,al.muqdadiya
+subdistrict_origin,markaz.al.najaf,Markaz Al-Najaf,,al.najaf
+subdistrict_origin,markaz.al.nasiriya,Markaz Al-Nasiriya,,al.nasiriya
+subdistrict_origin,markaz.al.noamaniya,Markaz Al-Noamaniya,,al.namaniya
+subdistrict_origin,markaz.al.qurna,Markaz Al-Qurna,,al.qurna
+subdistrict_origin,markaz.al.ramadi,Markaz Al-Ramadi,,al.ramadi
+subdistrict_origin,markaz.al.rifai,Markaz Al-Rifai,,al.rifai
+subdistrict_origin,markaz.al.rumaitha,Markaz Al-Rumaitha,,al.rumaitha
+subdistrict_origin,markaz.al.rutba,Markaz Al-Rutba,,al.rutba
+subdistrict_origin,markaz.al.salman,Markaz Al-Salman,,al.salman
+subdistrict_origin,markaz.al.shatra,Markaz Al-Shatra,,al.shatra
+subdistrict_origin,markaz.al.shikhan,Markaz Al-Shikhan,,al.shikhan
+subdistrict_origin,markaz.al.shirqat,Markaz Al-Shirqat,,al.shirqat
+subdistrict_origin,markaz.al.suwaira,Markaz Al-Suwaira,,al.suwaira
+subdistrict_origin,markaz.al.thawra,Markaz Al-Thawra,,al.thawra
+subdistrict_origin,markaz.al.zubair,Markaz Al-Zubair,,al.zubair
+subdistrict_origin,markaz.ali.al.gharbi,Markaz Ali Al-Gharbi,,ali.al.gharbi
+subdistrict_origin,markaz.ana,Markaz Ana,,ana
+subdistrict_origin,markaz.aqra,Markaz Aqra,,aqra
+subdistrict_origin,markaz.badra,Markaz Badra,,badra
+subdistrict_origin,markaz.baladruz,Markaz Baladruz,,baladruz
+subdistrict_origin,markaz.beygee,Markaz Beygee,,beygee
+subdistrict_origin,markaz.chamchamal,Markaz Chamchamal,,chamchamal
+subdistrict_origin,markaz.daquq,Markaz Daquq,,daquq
+subdistrict_origin,markaz.derbendikhan,Markaz Derbendikhan,,derbendikhan
+subdistrict_origin,markaz.dibis,Markaz Dibis,,dibis
+subdistrict_origin,markaz.duhok,Markaz Duhok,,duhok
+subdistrict_origin,markaz.erbil,Markaz Erbil,,erbil
+subdistrict_origin,markaz.halabja,Markaz Halabja,,halabcha
+subdistrict_origin,markaz.hatra,Markaz Hatra,,al.hatra
+subdistrict_origin,markaz.heet,Markaz Heet,,heet
+subdistrict_origin,markaz.kalar,Markaz Kalar,,kalar
+subdistrict_origin,markaz.kerbela,Markaz Kerbela,,kerbela
+subdistrict_origin,markaz.khanaqin,Markaz Khanaqin,,khanaqin
+subdistrict_origin,markaz.kifri,Markaz Kifri,,kifri
+subdistrict_origin,markaz.kirkuk,Markaz Kirkuk,,kirkuk
+subdistrict_origin,markaz.koysinjaq,Markaz Koysinjaq,,koysinjaq
+subdistrict_origin,markaz.makhmour,Markaz Makhmour,,makhmour
+subdistrict_origin,markaz.panjwin,Markaz Panjwin,,panjwin
+subdistrict_origin,markaz.pshdar,Markaz Pshdar,,pshdar
+subdistrict_origin,markaz.qalat.saleh,Markaz Qalat Saleh,,qalat.saleh
+subdistrict_origin,markaz.rania,Markaz Rania,,rania
+subdistrict_origin,markaz.rawanduz,Markaz Rawanduz,,rawanduz
+subdistrict_origin,markaz.samarra,Markaz Samarra,,samarra
+subdistrict_origin,markaz.sharbazher,Markaz Sharbazher,,sharbazher
+subdistrict_origin,markaz.shat.al.arab,Markaz Shat Al-Arab,,shat.al.arab
+subdistrict_origin,markaz.sinjar,Markaz Sinjar,,sinjar
+subdistrict_origin,markaz.sumail,Markaz Sumail,,sumail
+subdistrict_origin,markaz.telafar,Markaz Telafar,,telafar
+subdistrict_origin,markaz.tilkaef,Markaz Tilkaef,,tilkaef
+subdistrict_origin,markaz.tooz.khurmato,Markaz Tooz Khurmato,,tooz.khurmato
+subdistrict_origin,markaz.zakho,Markaz Zakho,,zakho
+subdistrict_origin,mawat,Mawat,,sharbazher
+subdistrict_origin,mazouri.bala,Mazouri Bala,,al.zibar
+subdistrict_origin,mergasur,Mergasur,,rawanduz
+subdistrict_origin,midan,Midan,,khanaqin
+subdistrict_origin,mirka,Mirka,,rania
+subdistrict_origin,namroud,Namroud,,al.hamdaniya
+subdistrict_origin,nawdasht,Nawdasht,,pshdar
+subdistrict_origin,nerwa.rekan,Nerwa Rekan,,al.amadiya
+subdistrict_origin,outba,Outba,,shat.al.arab
+subdistrict_origin,qalaa't.ansab,Qalaa't Ansab,,al.khalis
+subdistrict_origin,qalat.siker,Qalat Siker,,al.rifai
+subdistrict_origin,qara.tabe,Qara Tabe,,kifri
+subdistrict_origin,qaradagh,Qaradagh,,al.sulaymaniyah
+subdistrict_origin,qaraj,Qaraj,,makhmour
+subdistrict_origin,qaratu,Qaratu,,khanaqin
+subdistrict_origin,qasruk,Qasruk,,al.shikhan
+subdistrict_origin,qazanya,Qazanya,,baladruz
+subdistrict_origin,qura.hanjeer,Qura Hanjeer,,kirkuk
+subdistrict_origin,qushtappa,Qushtappa,,erbil
+subdistrict_origin,rabia,Rabia,,telafar
+subdistrict_origin,rawa,Rawa,,ana
+subdistrict_origin,safwan,Safwan,,al.zubair
+subdistrict_origin,said.dekhil,Said Dekhil,,al.nasiriya
+subdistrict_origin,salah.al.din,Salah Al-Din,,shaqlawa
+subdistrict_origin,sarchnar,Sarchnar,,al.sulaymaniyah
+subdistrict_origin,sarkran,Sarkran,,dibis
+subdistrict_origin,sarsank,Sarsank,,al.amadiya
+subdistrict_origin,saruchik,Saruchik,,sharbazher
+subdistrict_origin,shaekh.saad,Shaekh Saad,,al.kut
+subdistrict_origin,shahrazur,Shahrazur,,halabcha
+subdistrict_origin,shorsh,Shorsh,,koysinjaq
+subdistrict_origin,shwan,Shwan,,kirkuk
+subdistrict_origin,sindi,Sindi,,sumail
+subdistrict_origin,siwail,Siwail,,sharbazher
+subdistrict_origin,sourdash,Sourdash,,dokan
+subdistrict_origin,sulaiman.baig,Sulaiman Baig,,tooz.khurmato
+subdistrict_origin,sumer,Sumer,,afaq
+subdistrict_origin,talha,Talha,,al.midaina
+subdistrict_origin,taq.taq,Taq Taq,,koysinjaq
+subdistrict_origin,taza.khormato,Taza Khormato,,kirkuk
+subdistrict_origin,that.al.salasil,That al Salasil,,al.kadhmiyah
+subdistrict_origin,tilako,Tilako,,kalar
+subdistrict_origin,um.al.qura,Um Al-Qura,,tikrit
+subdistrict_origin,um.qasr,Um Qasr,,al.zubair
+subdistrict_origin,wana,Wana,,tilkaef
+subdistrict_origin,wasit,Wasit,,al.kut
+subdistrict_origin,yaijy,Yaijy,,kirkuk
+subdistrict_origin,yathreb,Yathreb,,balad
+subdistrict_origin,zawita,Zawita,,duhok
+subdistrict_origin,mosul,Mosul,,al.mosul
+subdistrict_origin,zummar,Zummar,,telafar
+subdistrict_origin,other,Specify other,,
+,,,,
+yes_no,yes,Yes,,
+yes_no,no,No,,
+,,,,
+sex,male,Male,,
+sex,female,Female,,
+,,,,
+intention,remain,Remain in current location,,
+intention,return,Return to area of origin,,
+intention,move_inside_iraq,Move to another location - inside Iraq,,
+intention,move_outside_iraq,Move to another location - outside Iraq,,
+intention,wait_to_decide,Do not know - waiting to make a decision,,
+,,,,
+reasons_return,security_stable,Security situation in area of origin is stable,,
+reasons_return,cleared_uxo,Area of origin was cleared of explosive hazards,,
+reasons_return,other_members_returned,Other family / community members have returned,,
+reasons_return,livelihood_availability_there,Livelihood options are available there,,
+reasons_return,lack_safety_women,Lack of safety and security for women and girls,,
+reasons_return,basic_services_available,"Basic services (water, electricity, health, education, etc.) are available in the area of origin",,
+reasons_return,emotional_desire,Emotional desire to return,,
+reasons_return,secure_house_land,"Necessary to secure personal housing, land and property",,
+reasons_return,limited_livelihood_opportunities,Limited livelihood opportunities in area of displacement,,
+reasons_return,limited_services,Limited services in area of displacement,,
+reasons_return,no_safe_in_area_of_displacement,Do not feel safe in area of displacement,,
+reasons_return,no_integrated_in_area_of_displace,Do not feel integrated in the area of displacement,,
+reasons_return,facing_eviction,Facing eviction in the area of displacement,,
+reasons_return,forced_return,Forced to return by security actors or civilian authoritis,,
+reasons_return,no_other_option,No other option,,
+reasons_return,fam_released,Family member released from detention,,
+,,,,
+obstacles_return,fear_trauma,Security concerns: Fear/trauma associated with returning to place of origin,,
+obstacles_return,lack_of_security_forces,Security concerns: Lack of security forces,,
+obstacles_return,presence_of_mines,"Security concerns: Presence of explosive hazards (mines, bombs, IEDs)",,
+obstacles_return,discrimination,Security concerns: Fear of discrimination,,
+obstacles_return,lack_security_women,Lack of safety and security for women and girls,,
+obstacles_return,lack_court,Non-restoration of courts and/or civil registries in AoO,,
+obstacles_return,movement_restrictions,Movement restrictions (do not have proper paperwork to relocate),,
+obstacles_return,no_personal_id_document,No personal identification documents,,
+obstacles_return,no_transport_to_return,No transportation available to return home,,
+obstacles_return,no_financial_money_to_return,No financial means to return and restart,,
+obstacles_return,lack_livelihood_generating_income,Lack of livelihood/income generating activities in AoO,,
+obstacles_return,house_damaged_destroyed,House I own in AoO has been damaged/destroyed,,
+obstacles_return,house_land_occupied,House/land I own in AoO is currently occupied,,
+obstacles_return,hh_assets_stolen_damaged,Household assets in AoO have been damaged/stolen,,
+obstacles_return,local_markets_not_working,Local markets are not functioning,,
+obstacles_return,basic_services_not_enough,"Basic services in the area of origin are not enough/available (electricity, water, health)",,
+obstacles_return,lack_of_education_opportunities,Lack of education opportunities for children in the area of origin,,
+obstacles_return,immediate_family_wont_return,Immediate family and network will not return,,
+obstacles_return,health_conditions,Health condition does not allow me to leave the area of displacement,,
+obstacles_return,children_enrolled_in_displacement,Children enrolled at school in the area of displacement,,
+obstacles_return,living_conditions_better,Living conditions are better in the area of displacement,,
+obstacles_return,do_not_know,Do not know,,
+obstacles_return,decline_to_answer,Decline to answer,,
+,,,,
+yndd,yes,Yes,,
+yndd,no,No,,
+yndd,do_not_know,Do not know,,
+yndd,decline_to_answer,Decline to answer,,
+,,,,
+ynd,yes,Yes,,
+ynd,no,No,,
+ynd,do_not_know,Do not know,,
+,,,,
+gender,male,Male,,
+gender,female,Female,,
+,,,,
+intentions_3,current,Remain in current location,,
+intentions_3,return,Return to area of origin,,
+intentions_3,move_iraq,Move to another location - inside Iraq,,
+intentions_3,move_other,Move to another location - outside Iraq,,
+intentions_3,dnk,Do not know - waiting to make a decision,,
+,,,,
+intentions_12,current,Remain in current location,,
+intentions_12,return,Return to area of origin,,
+intentions_12,move_iraq,Move to another location - inside Iraq,,
+intentions_12,move_other,Move to another location - outside Iraq,,
+intentions_12,dnk,Do not know - waiting to make a decision,,
+,,,,
+why_not_safe_in_aoo,gender_based_violence,Gender Based Violence (GBV),,
+why_not_safe_in_aoo,sporadic_clashes,Sporadic clashes,,
+why_not_safe_in_aoo,exploitative_work,Illegal dangerous or exploitative working conditions,,
+why_not_safe_in_aoo,close_conflict,Close to conflict (armed attacks front line etc.) ,,
+why_not_safe_in_aoo,land_contaminated,"Land contaminated with explosive hazards (mines, bombs, IEDs)",,
+why_not_safe_in_aoo,fear_armed_actors,"Fear of armed security actors (recruitment, detention, violence, threats or harassment)",,
+why_not_safe_in_aoo,fear_extremists,"Fear of extremist groups (recruitment, violence, threats or harassment)",,
+why_not_safe_in_aoo,fear_community_violence,"Fear of community/tribal groups (violence, threats, harassment related to ongoing dispute)",,
+why_not_safe_in_aoo,discrimination,Social exclusion or discrimination,,
+why_not_safe_in_aoo,poor_infrastructure,Poor infrastructure (buildings and roads) ,,
+why_not_safe_in_aoo,restrictions_on_households,Restrictions on households,,
+why_not_safe_in_aoo,other,Other (specify),,
+,,,,
+assistance_type,cash,Cash assistance,,
+assistance_type,food,Food assistance,,
+assistance_type,nfi_distributions,NFI distributions,,
+assistance_type,livelihoods,Livelihoods/income generating activities,,
+assistance_type,infrastructure_repair,Shelter rehabilitation or reconstruction,,
+assistance_type,other,Other,,
+,,,,
+provider,humanitarian,"Humanitarian actor (UN, NGO)",,
+provider,local_authorities,Local authorities,,
+provider,security_actor,Security actor,,
+provider,local_community,"Local community (i.e. mukhtar, religious groups)",,
+,,,,
+type_service,water,Water,,
+type_service,electricity,Electricity,,
+type_service,waste_disposal,Waste disposal (garbage),,
+type_service,health_services,Health services,,
+type_service,education,Education,,
+type_service,do_not_know,Don`t know,,
+type_service,other,Other,,
+,,,,
+livelihood_aoo,agriculture,Agriculture,,
+livelihood_aoo,construction,Construction,,
+livelihood_aoo,government,Government jobs,,
+livelihood_aoo,healthcare,Health services,,
+livelihood_aoo,transportation,Transportation,,
+livelihood_aoo,service__hotel,"Service industry(Hotel, Restaurant)",,
+livelihood_aoo,private_business,Private Business (Enter Text),,
+livelihood_aoo,vocational,"Vocational (carpenter, electrician, plumber, etc.)",,
+livelihood_aoo,other,Other,,
+livelihood_aoo,refuse,Decline to answer,,
+livelihood_aoo,do_not_know,Don`t know,,
+,,,,
+move_when,3_6_months,3-6 months,,
+move_when,6_12_months,6-12 months,,
+move_when,1_2_years,1-2 years,,
+move_when,after_2years,After 2 years,,
+move_when,do_not_know,Don`t know,,
+move_when,decline_to_answer,Decline to answer,,
+,,,,
+move_when1,1_2_weeks,1-2 Weeks,,
+move_when1,3_4_weeks,3-4 Weeks,,
+move_when1,2_3_months,2-3 Months,,
+move_when1,do_not_know,Don`t know,,
+move_when1,decline_to_answer,Decline to answer,,
+,,,,
+stay,integrate_with_another_fam,Integrate with another family in nearby house,,
+stay,move_same_neiborhood,Move into abandoned house or public building in same neighbourhood,,
+stay,move_nearby_neighborhood,Move into abandoned house or public building in nearby neighbourhood,,
+stay,do_not_know,Don't know,,
+stay,decline_to_answer,Decline to answer,,
+,,,,
+move_inside,within_gov,Move within the same governorate,,
+move_inside,to_camp,Move to a camp,,
+move_inside,diff_gov_kri,Move to a different governorate_KRI,,
+move_inside,diff_gov_iraq,Move to a different governorate_Iraq,,
+move_inside,do_not_know,don`t know,,
+move_inside,decline_to_answer,decline to answer,,
+,,,,
+reasons_move_abroad_relocate,reunite_with_family,Reunite with immediate family members,,
+reasons_move_abroad_relocate,reunite_with_network,Reunite with family network,,
+reasons_move_abroad_relocate,seek_better_basic_services,Seek better basic services,,
+reasons_move_abroad_relocate,seek_better_security,Seek better security situation,,
+reasons_move_abroad_relocate,seek_better_education,Seek better educational services for children,,
+reasons_move_abroad_relocate,seek_better_livelihood_opp,Seek better livelihood opportunities,,
+reasons_move_abroad_relocate,cohabitation_issues,Cohabitation issues with host community,,
+reasons_move_abroad_relocate,facing_eviction,Facing eviction in my current area of displacement,,
+reasons_move_abroad_relocate,no_other_option,No other option,,
+reasons_move_abroad_relocate,do_not_know,Do not know,,
+reasons_move_abroad_relocate,refuse_to_answer,Decline to answer,,
+reasons_move_abroad_relocate,other,Other (Enter Text),,
+,,,,
+needs_return,access_to_info_on_situation_aoo,Access to information on the current situation of the area of origin,,
+needs_return,increased_safety_and_security,Increased safety and security in the area of return,,
+needs_return,basic_services,"Basic services (water, electricity, sanitation, waste removal)",,
+needs_return,healthcare_services,Healthcare services,,
+needs_return,education_services,Education services (schooling),,
+needs_return,transportation_services,Transportation services,,
+needs_return,psychosocial_services,Psychosocial services,,
+needs_return,legal_assistance_needed_hlp,Legal assistance needed regarding Housing/Property Ownership,,
+needs_return,functioning_justice_mechanisms,Functioning justice mechanisms,,
+needs_return,personal_identification_document,"Civil documentation (ID cards, etc",,
+needs_return,rehabilitation_reconstruction,Rehabilitation/Reconstruction of Homes,,
+needs_return,furniture_nfi,"Furniture / Non-food items
+",,
+needs_return,food_items,Food items,,
+needs_return,livelihood_income,"Livelihood/income generating opportunities / Professional development training
+",,
+needs_return,functioning_markets,Functioning markets,,
+needs_return,do_not_know,Do not know,,
+needs_return,refuse_to_answer,Decline to answer,,
+needs_return,other,Others(Enter Text),,
+needs_return,nothing,nothing ( no needs),,
+,,,,
+wgss,no_difficulty,No difficulty,,
+wgss,some_difficulty,"Yes, some difficulty",,
+wgss,a_lot_of_difficulty,"Yes, a lot of difficulty",,
+wgss,cannot_do_at_all,Cannot do at all,,
+,,,,
+property_damaged,yes,Yes,,
+property_damaged,no,No,,
+property_damaged,not_own,I do not own property,,
+,,,,
+conditionhouse,completely_des,Completely destroyed,,
+conditionhouse,heavily_damage,Heavily damaged,,
+conditionhouse,partially_dama,Partially damaged,,
+conditionhouse,undamaged,Undamaged,,
+conditionhouse,do_not_own_property,Do not own a property,,
+conditionhouse,do_not_know,Do not know,,
+conditionhouse,refuse_to_answ,Decline to answer,,
+,,,,
+governorate_kri,al.sulaymaniyah,Al-Sulaymaniyah,,
+governorate_kri,erbil,Erbil,,
+governorate_kri,duhok,duhok,,
+,,,,
+governorate_federaliraq,diyala,Diyala,,
+governorate_federaliraq,salah.al.din,Salah al-Din,,
+governorate_federaliraq,ninewa,Ninewa,,
+governorate_federaliraq,al.anbar,Al-Anbar,,
+governorate_federaliraq,al.basrah,Al-Basrah,,
+governorate_federaliraq,al.qadissiya,Al-Qadissiya,,
+governorate_federaliraq,al.najaf,Al.Najaf,,
+governorate_federaliraq,babil,Babil,,
+governorate_federaliraq,baghdad,Baghdad,,
+governorate_federaliraq,kerbala,Kerbala,,
+governorate_federaliraq,kirkuk,Kirkuk,,
+governorate_federaliraq,wassit,Wassit,,
+governorate_federaliraq,maysan,Maysan,,
+governorate_federaliraq,thi.qar,Thi Qar,,
+governorate_federaliraq,al.muthana,Al Muthanna,,
+,,,,
+governorate_intention,diyala,Diyala,,
+governorate_intention,salah.al.din,Salah al-Din,,
+governorate_intention,ninewa,Ninewa,,
+governorate_intention,al.anbar,Al-Anbar,,
+governorate_intention,al.basrah,Al-Basrah,,
+governorate_intention,al.qadissiya,Al-Qadissiya,,
+governorate_intention,al.najaf,Al.Najaf,,
+governorate_intention,babil,Babil,,
+governorate_intention,baghdad,Baghdad,,
+governorate_intention,kerbala,Kerbala,,
+governorate_intention,kirkuk,Kirkuk,,
+governorate_intention,wassit,Wassit,,
+governorate_intention,erbil,Erbil,,
+governorate_intention,duhok,Duhok,,
+governorate_intention,al.sulaymaniyah,Al-Sulaymaniyah,,
+governorate_intention,maysan,Maysan,,
+governorate_intention,thi.qar,Thi Qar,,
+governorate_intention,al.muthana,Al Muthanna,,
+,,,,
+district_intention_federaliraq,afaq,Afaq,,al.qadissiya
+district_intention_federaliraq,ain.al.tamur,Ain Al-Tamur,,kerbala
+district_intention_federaliraq,al.adhamiya,Al-Adhamiya,,baghdad
+district_intention_federaliraq,al.amara,Al-Amara,,maysan
+district_intention_federaliraq,al.baaj,Al-Baaj,,ninewa
+district_intention_federaliraq,al.basrah,Al-Basrah,,al.basrah
+district_intention_federaliraq,al.chibayish,Al-Chibayish,,thi.qar
+district_intention_federaliraq,al.daur,Al-Daur,,salah.al.din
+district_intention_federaliraq,al.diwaniya,Al-Diwaniya,,al.qadissiya
+district_intention_federaliraq,al.falluja,Al-Falluja,,al.anbar
+district_intention_federaliraq,al.faw,Al-Faw,,al.basrah
+district_intention_federaliraq,al.hai,Al-Hai,,wassit
+district_intention_federaliraq,al.hamdaniya,Al-Hamdaniya,,ninewa
+district_intention_federaliraq,al.hamza,Al-Hamza,,al.qadissiya
+district_intention_federaliraq,al.hashimiya,Al-Hashimiya,,babil
+district_intention_federaliraq,al.hatra,Al-Hatra,,ninewa
+district_intention_federaliraq,al.hawiga,Al-Hawiga,,kirkuk
+district_intention_federaliraq,al.hilla,Al-Hilla,,babil
+district_intention_federaliraq,al.hindiya,Al-Hindiya,,kerbala
+district_intention_federaliraq,al.kadhmiyah,Al-Kadhmiyah,,baghdad
+district_intention_federaliraq,al.kahla,Al-Kahla,,maysan
+district_intention_federaliraq,al.kaim,Al-Kaim,,al.anbar
+district_intention_federaliraq,al.karkh,Al-Karkh,,baghdad
+district_intention_federaliraq,al.khalis,Al-Khalis,,diyala
+district_intention_federaliraq,al.khidhir,Al-Khidhir,,al.muthanna
+district_intention_federaliraq,al.kufa,Al-Kufa,,al.najaf
+district_intention_federaliraq,al.kut,Al-Kut,,wassit
+district_intention_federaliraq,al.mada'in,Al-Mada'in,,baghdad
+district_intention_federaliraq,al.mahaweel,Al-Mahaweel,,babil
+district_intention_federaliraq,al.mahmoudiya,Al-Mahmoudiya,,baghdad
+district_intention_federaliraq,al.maimouna,Al-Maimouna,,maysan
+district_intention_federaliraq,al.manathera,Al-Manathera,,al.najaf
+district_intention_federaliraq,al.mejar.al.kabir,Al-Mejar Al-Kabir,,maysan
+district_intention_federaliraq,al.midaina,Al-Midaina,,al.basrah
+district_intention_federaliraq,al.mosul,Al-Mosul,,ninewa
+district_intention_federaliraq,al.muqdadiya,Al-Muqdadiya,,diyala
+district_intention_federaliraq,al.mussyab,Al-Mussyab,,babil
+district_intention_federaliraq,al.najaf,Al-Najaf,,al.najaf
+district_intention_federaliraq,al.namaniya,Al-Namaniya,,wassit
+district_intention_federaliraq,al.nasiriya,Al-Nasiriya,,thi.qar
+district_intention_federaliraq,al.qurna,Al-Qurna,,al.basrah
+district_intention_federaliraq,al.ramadi,Al-Ramadi,,al.anbar
+district_intention_federaliraq,al.rifai,Al-Rifai,,thi.qar
+district_intention_federaliraq,al.risafa,Al-Risafa,,baghdad
+district_intention_federaliraq,al.rumaitha,Al-Rumaitha,,al.muthanna
+district_intention_federaliraq,al.rutba,Al-Rutba,,al.anbar
+district_intention_federaliraq,al.salman,Al-Salman,,al.muthanna
+district_intention_federaliraq,al.samawa,Al-Samawa,,al.muthanna
+district_intention_federaliraq,al.shamiya,Al-Shamiya,,al.qadissiya
+district_intention_federaliraq,al.shatra,Al-Shatra,,thi.qar
+district_intention_federaliraq,al.shikhan,Al-Shikhan,,ninewa
+district_intention_federaliraq,al.shirqat,Al-Shirqat,,salah.al.din
+district_intention_federaliraq,al.suwaira,Al-Suwaira,,wassit
+district_intention_federaliraq,al.thawra,Al-Thawra,,baghdad
+district_intention_federaliraq,al.zubair,Al-Zubair,,al.basrah
+district_intention_federaliraq,ali.al.gharbi,Ali Al-Gharbi,,maysan
+district_intention_federaliraq,ana,Ana,,al.anbar
+district_intention_federaliraq,aqra,Aqra,,ninewa
+district_intention_federaliraq,badra,Badra,,wassit
+district_intention_federaliraq,balad,Balad,,salah.al.din
+district_intention_federaliraq,baladruz,Baladruz,,diyala
+district_intention_federaliraq,baquba,Baquba,,diyala
+district_intention_federaliraq,beygee,Beygee,,salah.al.din
+district_intention_federaliraq,daquq,Daquq,,kirkuk
+district_intention_federaliraq,dibis,Dibis,,kirkuk
+district_intention_federaliraq,haditha,Haditha,,al.anbar
+district_intention_federaliraq,heet,Heet,,al.anbar
+district_intention_federaliraq,kerbela,Kerbela,,kerbala
+district_intention_federaliraq,khanaqin,Khanaqin,,diyala
+district_intention_federaliraq,kifri,Kifri,,diyala
+district_intention_federaliraq,kirkuk,Kirkuk,,kirkuk
+district_intention_federaliraq,qalat.saleh,Qalat Saleh,,maysan
+district_intention_federaliraq,samarra,Samarra,,salah.al.din
+district_intention_federaliraq,shat.al.arab,Shat Al-Arab,,al.basrah
+district_intention_federaliraq,sinjar,Sinjar,,ninewa
+district_intention_federaliraq,suq.al.shoyokh,Suq Al-Shoyokh,,thi.qar
+district_intention_federaliraq,telafar,Telafar,,ninewa
+district_intention_federaliraq,tikrit,Tikrit,,salah.al.din
+district_intention_federaliraq,tilkaef,Tilkaef,,ninewa
+district_intention_federaliraq,tooz.khurmato,Tooz Khurmato,,salah.al.din
+,,,,
+district_intention_kri,al.amadiya,Al-Amadiya,,duhok
+district_intention_kri,al.sulaymaniyah,Al-Sulaymaniyah,,al.sulaymaniyah
+district_intention_kri,al.zibar,Al-Zibar,,erbil
+district_intention_kri,chamchamal,Chamchamal,,al.sulaymaniyah
+district_intention_kri,derbendikhan,Derbendikhan,,al.sulaymaniyah
+district_intention_kri,dokan,Dokan,,al.sulaymaniyah
+district_intention_kri,duhok,Duhok,,duhok
+district_intention_kri,erbil,Erbil,,erbil
+district_intention_kri,halabcha,Halabcha,,al.sulaymaniyah
+district_intention_kri,kalar,Kalar,,al.sulaymaniyah
+district_intention_kri,koysinjaq,Koysinjaq,,erbil
+district_intention_kri,makhmour,Makhmour,,erbil
+district_intention_kri,panjwin,Panjwin,,al.sulaymaniyah
+district_intention_kri,pshdar,Pshdar,,al.sulaymaniyah
+district_intention_kri,rania,Rania,,al.sulaymaniyah
+district_intention_kri,rawanduz,Rawanduz,,erbil
+district_intention_kri,shaqlawa,Shaqlawa,,erbil
+district_intention_kri,sharbazher,Sharbazher,,al.sulaymaniyah
+district_intention_kri,sumail,Sumail,,duhok
+district_intention_kri,zakho,Zakho,,duhok
+,,,,
+camp_name_intention,aaf,Amriyat Al-Fallujah Camp,,al.anbar
+camp_name_intention,htc,Habbaniya Tourist City camps,,al.anbar
+camp_name_intention,zayona,Zayona,,baghdad
+camp_name_intention,al.ahel,Al Ahel,,baghdad
+camp_name_intention,bajed.kandala,Bajed Kandala,,duhok
+camp_name_intention,kabarto.1,Kabarto 1,,duhok
+camp_name_intention,kabarto.2,Kabarto 2,,duhok
+camp_name_intention,darkar,Darkar,,duhok
+camp_name_intention,dawoudia,Dawoudia,,duhok
+camp_name_intention,bersive.2,Bersive 2,,duhok
+camp_name_intention,bersive.1,Bersive 1,,duhok
+camp_name_intention,rwanga.community,Rwanga Community,,duhok
+camp_name_intention,khanke,Khanke,,duhok
+camp_name_intention,shariya,Shariya,,duhok
+camp_name_intention,chamishku,Chamishku,,duhok
+camp_name_intention,alwand.2,Alwand 2,,diyala
+camp_name_intention,qoratu,Qoratu,,diyala
+camp_name_intention,alwand.1,Alwand 1,,diyala
+camp_name_intention,debaga.1,Debaga 1,,erbil
+camp_name_intention,harshm,Harshm,,erbil
+camp_name_intention,baharka,Baharka,,erbil
+camp_name_intention,al.kawthar,Al-Kawthar Camp (Kerbala MODM),,kerbala
+camp_name_intention,laylan.idp,Laylan IDP (1),,kirkuk
+camp_name_intention,yahyawa,Yahyawa,,kirkuk
+camp_name_intention,as.salamyiah,As Salamyiah,,ninewa
+camp_name_intention,essian,Essian,,ninewa
+camp_name_intention,haa.2,Hamam Al Alil 1-2,,ninewa
+camp_name_intention,hasansham.u2,Hasansham_U2,,ninewa
+camp_name_intention,hasansham.u3,Hasansham U3,,ninewa
+camp_name_intention,khazer.m1,Khazer M1,,ninewa
+camp_name_intention,mamilian,Mamilian,,ninewa
+camp_name_intention,mamrashan,Mamrashan,,ninewa
+camp_name_intention,qayyarah.jadah.one,Qayyarah-Jad'ah 1,,ninewa
+camp_name_intention,qayyarah.jadah.five,Qayyarah-Jad'ah 5,,ninewa
+camp_name_intention,sheikhan,Sheikhan,,ninewa
+camp_name_intention,karamah,Karamah,,salah.al.din
+camp_name_intention,ashti.idp,Ashti IDP,,al.sulaymaniyah
